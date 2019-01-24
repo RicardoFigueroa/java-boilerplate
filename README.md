@@ -12,3 +12,16 @@
 
 - http://localhost:8080/greeting
 - http://localhost:8080/greeting?name=User
+- http://localhost:8080/getPerson?id=1
+- http://localhost:8080/getPerson?id=2
+
+Using the following
+
+- Java 8
+- Spring Boot
+- Hibernate / JPA
+- React
+- MySQL
+- Docker
+- Tomcat
+- Security?
