@@ -1,5 +1,7 @@
 **java-boilerplate**
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ckinan_java-boilerplate&metric=alert_status)](https://sonarcloud.io/dashboard?id=ckinan_java-boilerplate)
+
 **Build**
 
 `mvn clean install`
